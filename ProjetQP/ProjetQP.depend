@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1703967346 source:c:\users\ethan usselmann\desktop\projetqp\main.cpp
+	<iostream>
+	"element.h"
+
+1703976106 source:c:\users\ethan usselmann\desktop\projetqp\monstreaveugle.cpp
+	"monstreAveugle.h"
+	"monstre.h"
+
+1703976208 c:\users\ethan usselmann\desktop\projetqp\monstreaveugle.h
+	"point.h"
+	"monstre.h"
+
+1703976217 source:c:\users\ethan usselmann\desktop\projetqp\monstrevoyant.cpp
+	"monstreVoyant.h"
+	"monstre.h"
+
+1703976208 c:\users\ethan usselmann\desktop\projetqp\monstrevoyant.h
+	"point.h"
+	"monstre.h"
+
+1703959592 source:c:\users\ethan usselmann\desktop\projetqp\objetportable.cpp
+	"objetPortable.h"
+
+1703959496 c:\users\ethan usselmann\desktop\projetqp\objetportable.h
+
+1703959592 source:c:\users\ethan usselmann\desktop\projetqp\element.cpp
+	"element.h"
+	"point.h"
+
+1703961456 c:\users\ethan usselmann\desktop\projetqp\element.h
+	"point.h"
+
+1703966834 c:\users\ethan usselmann\desktop\projetqp\point.h
+
+1703971005 source:c:\users\ethan usselmann\desktop\projetqp\monstre.cpp
+	"monstre.h"
+	<cstdlib>
+	<ctime>
+
+1703969691 c:\users\ethan usselmann\desktop\projetqp\monstre.h
+	"personnage.h"
+
+1703964687 c:\users\ethan usselmann\desktop\projetqp\personnage.h
+	"point.h"
+	"element.h"
+
+1703964613 source:c:\users\ethan usselmann\desktop\projetqp\personnage.cpp
+	"personnage.h"
+
+1703964664 source:c:\users\ethan usselmann\desktop\projetqp\aventurier.cpp
+	<cstdlib>
+	<ctime>
+	"aventurier.h"
+	"point.h"
+
+1703966541 c:\users\ethan usselmann\desktop\projetqp\aventurier.h
+	"personnage.h"
+	"objetPortable.h"
+
+1703966864 source:c:\users\ethan usselmann\desktop\projetqp\point.cpp
+	"point.h"
+	<cmath>
+
+1704238063 source:c:\users\ethan usselmann\desktop\projetqp\amulette.cpp
+	"amulette.h"
+
+1704237988 c:\users\ethan usselmann\desktop\projetqp\amulette.h
+	"point.h"
+	"element.h"
+
+1704238150 source:c:\users\ethan usselmann\desktop\projetqp\cellule.cpp
+	"cellule.h"
+
+1704238173 c:\users\ethan usselmann\desktop\projetqp\cellule.h
+	"point.h"
+	"element.h"
+
+1704238192 source:c:\users\ethan usselmann\desktop\projetqp\sacdepiece.cpp
+	"sacDePiece.h"
+
+1704238192 c:\users\ethan usselmann\desktop\projetqp\sacdepiece.h
+	"element.h"
+	"point.h"
+
