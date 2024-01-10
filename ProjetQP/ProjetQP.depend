@@ -1,0 +1,212 @@
+# depslib dependency file v1.0
+1703967346 source:c:\users\ethan usselmann\desktop\projetqp\main.cpp
+	<iostream>
+	"element.h"
+
+1703976106 source:c:\users\ethan usselmann\desktop\projetqp\monstreaveugle.cpp
+	"monstreAveugle.h"
+	"monstre.h"
+
+1703976208 c:\users\ethan usselmann\desktop\projetqp\monstreaveugle.h
+	"point.h"
+	"monstre.h"
+
+1703976217 source:c:\users\ethan usselmann\desktop\projetqp\monstrevoyant.cpp
+	"monstreVoyant.h"
+	"monstre.h"
+
+1703976208 c:\users\ethan usselmann\desktop\projetqp\monstrevoyant.h
+	"point.h"
+	"monstre.h"
+
+1703959592 source:c:\users\ethan usselmann\desktop\projetqp\objetportable.cpp
+	"objetPortable.h"
+
+1703959496 c:\users\ethan usselmann\desktop\projetqp\objetportable.h
+
+1703959592 source:c:\users\ethan usselmann\desktop\projetqp\element.cpp
+	"element.h"
+	"point.h"
+
+1703961456 c:\users\ethan usselmann\desktop\projetqp\element.h
+	"point.h"
+
+1703966834 c:\users\ethan usselmann\desktop\projetqp\point.h
+
+1703971005 source:c:\users\ethan usselmann\desktop\projetqp\monstre.cpp
+	"monstre.h"
+	<cstdlib>
+	<ctime>
+
+1703969691 c:\users\ethan usselmann\desktop\projetqp\monstre.h
+	"personnage.h"
+
+1703964687 c:\users\ethan usselmann\desktop\projetqp\personnage.h
+	"point.h"
+	"element.h"
+
+1703964613 source:c:\users\ethan usselmann\desktop\projetqp\personnage.cpp
+	"personnage.h"
+
+1703964664 source:c:\users\ethan usselmann\desktop\projetqp\aventurier.cpp
+	<cstdlib>
+	<ctime>
+	"aventurier.h"
+	"point.h"
+
+1703966541 c:\users\ethan usselmann\desktop\projetqp\aventurier.h
+	"personnage.h"
+	"objetPortable.h"
+
+1703966864 source:c:\users\ethan usselmann\desktop\projetqp\point.cpp
+	"point.h"
+	<cmath>
+
+1704238063 source:c:\users\ethan usselmann\desktop\projetqp\amulette.cpp
+	"amulette.h"
+
+1704237988 c:\users\ethan usselmann\desktop\projetqp\amulette.h
+	"point.h"
+	"element.h"
+
+1704238150 source:c:\users\ethan usselmann\desktop\projetqp\cellule.cpp
+	"cellule.h"
+
+1704238173 c:\users\ethan usselmann\desktop\projetqp\cellule.h
+	"point.h"
+	"element.h"
+
+1704238192 source:c:\users\ethan usselmann\desktop\projetqp\sacdepiece.cpp
+	"sacDePiece.h"
+
+1704238192 c:\users\ethan usselmann\desktop\projetqp\sacdepiece.h
+	"element.h"
+	"point.h"
+
+1704819157 source:c:\users\ussel\onedrive\bureau\projetqp\amulette.cpp
+	"amulette.h"
+
+1704819157 c:\users\ussel\onedrive\bureau\projetqp\amulette.h
+	"point.h"
+	"element.h"
+
+1704864753 c:\users\ussel\onedrive\bureau\projetqp\point.h
+
+1704865657 c:\users\ussel\onedrive\bureau\projetqp\element.h
+	"point.h"
+
+1704911686 source:c:\users\ussel\onedrive\bureau\projetqp\aventurier.cpp
+	<cstdlib>
+	<ctime>
+	"aventurier.h"
+	"point.h"
+	"objetPortable.h"
+
+1704842447 c:\users\ussel\onedrive\bureau\projetqp\aventurier.h
+	"personnage.h"
+	"objetPortable.h"
+
+1704855163 c:\users\ussel\onedrive\bureau\projetqp\personnage.h
+	"point.h"
+	"element.h"
+
+1704727999 c:\users\ussel\onedrive\bureau\projetqp\objetportable.h
+
+1704865648 source:c:\users\ussel\onedrive\bureau\projetqp\element.cpp
+	"element.h"
+	"point.h"
+
+1704869439 source:c:\users\ussel\onedrive\bureau\projetqp\main.cpp
+	<iostream>
+	"element.h"
+	"jeuDonjon.h"
+	"aventurier.h"
+	"amulette.h"
+	"mur.h"
+	"monstre.h"
+	"sacDePiece.h"
+	"cellule.h"
+	<cstdlib>
+	<ctime>
+
+1704864995 source:c:\users\ussel\onedrive\bureau\projetqp\monstre.cpp
+	"monstre.h"
+	<cstdlib>
+	<ctime>
+
+1704865004 c:\users\ussel\onedrive\bureau\projetqp\monstre.h
+	"personnage.h"
+
+1704727999 source:c:\users\ussel\onedrive\bureau\projetqp\monstreaveugle.cpp
+	"monstreAveugle.h"
+	"monstre.h"
+
+1704727999 c:\users\ussel\onedrive\bureau\projetqp\monstreaveugle.h
+	"point.h"
+	"monstre.h"
+
+1704727999 source:c:\users\ussel\onedrive\bureau\projetqp\monstrevoyant.cpp
+	"monstreVoyant.h"
+	"monstre.h"
+
+1704727999 c:\users\ussel\onedrive\bureau\projetqp\monstrevoyant.h
+	"point.h"
+	"monstre.h"
+
+1704911466 source:c:\users\ussel\onedrive\bureau\projetqp\objetportable.cpp
+	"objetPortable.h"
+
+1704855150 source:c:\users\ussel\onedrive\bureau\projetqp\personnage.cpp
+	"personnage.h"
+
+1704864753 source:c:\users\ussel\onedrive\bureau\projetqp\point.cpp
+	"point.h"
+	<cmath>
+
+1704911686 source:c:\users\ussel\onedrive\bureau\projetqp\sacdepiece.cpp
+	"sacDePiece.h"
+	<cstdlib>
+	<ctime>
+
+1704911686 c:\users\ussel\onedrive\bureau\projetqp\sacdepiece.h
+	"element.h"
+	"point.h"
+
+1704733727 source:c:\users\ussel\onedrive\bureau\projetqp\cellule.cpp
+	"cellule.h"
+
+1704733727 c:\users\ussel\onedrive\bureau\projetqp\cellule.h
+	"point.h"
+	"element.h"
+
+1704733979 source:c:\users\ussel\onedrive\bureau\projetqp\mur.cpp
+	"mur.h"
+
+1704733974 c:\users\ussel\onedrive\bureau\projetqp\mur.h
+	"point.h"
+	"element.h"
+
+1704912904 source:c:\users\ussel\onedrive\bureau\projetqp\jeudonjon.cpp
+	"jeuDonjon.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	"aventurier.h"
+	"amulette.h"
+	"mur.h"
+	"monstre.h"
+	"sacDePiece.h"
+	"cellule.h"
+	"point.h"
+	<random>
+	<ctime>
+	<conio.h>
+	<cmath>
+
+1704911712 c:\users\ussel\onedrive\bureau\projetqp\jeudonjon.h
+	<vector>
+	<memory>
+	"element.h"
+	"aventurier.h"
+	"monstre.h"
+
